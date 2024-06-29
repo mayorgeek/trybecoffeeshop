@@ -17,14 +17,14 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/convo.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"><!-- font awesome cdn link -->
-        <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico"><!-- Favicon / Icon -->
+        <link rel="icon" type="image/x-icon" href="https://portal.oouagoiwoye.edu.ng/images/oou_2.jpg"><!-- Favicon / Icon -->
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><!-- Google font cdn link -->
     </head>
     <body>
         <!-- HEADER SECTION -->
         <header class="header">
             <a href="#" class="logo">
-                <img src="assets/images/logo.png" class="img-logo" alt="Trybe Logo">
+                <img src="https://portal.oouagoiwoye.edu.ng/images/oou_2.jpg" class="img-logo" alt="Trybe Logo">
             </a>
 
             <!-- MAIN MENU FOR SMALLER DEVICES -->
@@ -499,13 +499,13 @@
         <section class="footer">
             <div class="footer-container">
                 <div class="logo">
-                    <img src="assets/images/logo.png" class="img"><br />
-                    <i class="fas fa-envelope"></i>
+                    <img src="https://portal.oouagoiwoye.edu.ng/images/oou_2.jpg" class="img"><br />
+                    <!-- <i class="fas fa-envelope"></i>
                     <p>abfiguerrez18@gmail.com</p><br />
                     <i class="fas fa-phone"></i>
                     <p>+63 917-134-1422</p><br />
                     <i class="fab fa-facebook-messenger"></i>
-                    <p>@trybecoffee</p><br />
+                    <p>@trybecoffee</p><br /> -->
                 </div>
                 <div class="support">
                     <h2>Support</h2>
